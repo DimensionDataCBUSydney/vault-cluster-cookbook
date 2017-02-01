@@ -14,4 +14,4 @@ supports 'centos', '>= 6.6'
 
 depends 'ssl_certificate', '~> 1.11'
 depends 'consul-cluster', '~> 2.0'
-depends 'hashicorp-vault', '~> 2.1'
+depends 'hashicorp-vault', '~> 2.4.0'
